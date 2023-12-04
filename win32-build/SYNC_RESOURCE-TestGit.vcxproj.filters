@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Android\Project\TestGit\win32-build\CMakeFiles\3a1810e523454a08ef8611e1a23974a6\SYNC_RESOURCE-TestGit.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Android\Project\TestGit\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Android\Project\TestGit\win32-build\CMakeFiles\SYNC_RESOURCE-TestGit" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3E28653C-3E8B-39C1-AAD0-3BB5C4181FFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
